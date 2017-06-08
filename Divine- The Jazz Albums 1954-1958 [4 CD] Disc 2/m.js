@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 Lullaby of Birdland.mp3";		
+f[2]	= "02 April in Paris.mp3";		
+f[3]	= "03 He's My Guy.mp3";		
+f[4]	= "04 Jim.mp3";		
+f[5]	= "05 You're Not the Kind.mp3";		
+f[6]	= "06 Embraceable You.mp3";		
+f[7]	= "07 I'm Glad There Is You.mp3";		
+f[8]	= "08 September Song.mp3";		
+f[9]	= "09 It's Crazy.mp3";		
